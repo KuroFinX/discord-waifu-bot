@@ -19,5 +19,5 @@ Ein moderner Discord.js (v14) Bot zum Abrufen von zufälligen Anime- und Catgirl
 
 1. Repositorium klonen oder herunterladen:
    ```bash
-   git clone [https://github.com/DEIN_USERNAME/DEIN_REPO.git](https://github.com/DEIN_USERNAME/DEIN_REPO.git)
-   cd DEIN_REPO
+   git clone https://github.com/KuroFinX/discord-waifu-bot
+   cd discord-waifu-bot
